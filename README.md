@@ -1,5 +1,5 @@
 # darlade.xyz
-A simple website to share instead of your usual social media
+A simple website to share instead of social media
 
 = To-Do =
 
@@ -21,4 +21,4 @@ A simple website to share instead of your usual social media
 - Removed out of date Discord link
 - Added $uicideboy$ Video. 
 
-Last updated 30/12/19 - 15::11 PM
+Last updated 30/12/19 - 15:11 PM

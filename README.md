@@ -1,5 +1,5 @@
 # darlade.xyz
-A simple website to share instead of social media
+Simple landing page for sharing and fileuploads, might use this domain in the future for college projects.
 
 Improved CSS Format for text
 ```css
@@ -12,8 +12,8 @@ Improved CSS Format for text
 	text-shadow: 4px 2px black;
 	/* Area */
 	text-align: center;
-    width: 100%;
-    /* Layer */
+   	width: 100%;
+   	/* Layer */
 	z-index:1;
 ```
 
